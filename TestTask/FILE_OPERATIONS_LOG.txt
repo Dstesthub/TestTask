@@ -1,0 +1,6 @@
+[2024-04-28 19:39:35]test folder was created
+[2024-04-28 19:39:35]test.py was created
+[2024-04-28 19:39:35]test2.py was created
+[2024-04-28 19:39:35]test2.txt was created
+[2024-04-28 19:40:35]test folder was copied
+[2024-04-28 19:41:35]test folder was copied
